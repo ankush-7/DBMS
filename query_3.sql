@@ -1,0 +1,13 @@
+use collages;
+create table class(usn varchar(20),ssid int);
+INSERT INTO class VALUES ('ankush',1);
+INSERT INTO class VALUES ('aman',2);
+INSERT INTO class VALUES ('dev',3);
+INSERT INTO class VALUES ('manav',4);
+INSERT INTO class VALUES ('varun',5);
+INSERT INTO class VALUES ('raj',6);
+INSERT INTO class VALUES ('anuj',7);
+INSERT INTO class VALUES ('rahul',8);
+INSERT INTO class VALUES ('shebazz',9);
+INSERT INTO class VALUES ('suraj',10);
+select * from class;
