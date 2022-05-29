@@ -1,0 +1,11 @@
+create table semsec(SSID varchar(20), Sem varchar(2), Credits varchar(2));
+insert into semsec values(00917002021,1,'A');
+insert into semsec values(05217002021,1,'A');
+insert into semsec values(04317002021,1,'A');
+insert into semsec values(01817002021,1,'A');
+insert into semsec values(03817002021,1,'A');
+insert into semsec values(01917002021,1,'A');
+insert into semsec values(00817002021,1,'A');
+insert into semsec values(03217002021,1,'A');
+insert into semsec values(02617002021,1,'A');
+insert into semsec values(00317002021,1,'A');
